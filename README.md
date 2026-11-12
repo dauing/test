@@ -1,5 +1,7 @@
 # test
 
+[English](README_en.md) | 简体中文
+
 一个用于演示 **DSH superagent** 的示例仓库。
 
 ## 仓库意义
